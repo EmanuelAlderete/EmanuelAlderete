@@ -1,15 +1,38 @@
+<h1 align="center">Olá! Eu sou Luis Emanuel Rigon Alderete 👋</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_emanuelalderete/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emanuel-a-4b2866110/) 
-
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmanuelAlderete&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EmanuelAlderete&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAlderete&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Desenvolvedor backend com foco em APIs RESTful, apaixonado por resolver problemas com código limpo e soluções práticas.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmanuelAlderete&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 Sobre mim
+
+- 🎓 Técnico em Desenvolvimento Web pelo IFSul  
+- 🛠️ Atualmente focado em projetos com **Laravel**, **Filament PHP** e **integrações com APIs**
+- 🚀 Sempre em busca de aprender mais sobre boas práticas, arquitetura limpa e produtividade no backend
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Filament PHP](https://img.shields.io/badge/-Filament%20PHP-00BFA6?style=flat-square&logo=data:image/svg+xml;base64,[logo_base64])
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 📬 Contato
+
+- ✉️ Email: [luisemanuel.alderete@gmail.com](mailto:luisemanuel.alderete@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/emanuelalderete)
+
+---
+
+<p align="center">Obrigado pela visita! 🚀</p>
