@@ -24,6 +24,7 @@ Bagé, RS · Jusfy · [LinkedIn](https://linkedin.com/in/emanuelalderete) · [Em
 Desenvolvedor focado em **TypeScript**, **Node.js** e **React**: APIs tipadas, UIs modernas e ferramentas com IA.
 Aplico **SOLID**, **TDD** e **Docker** no dia a dia. Também tenho experiência sólida com **Laravel** em sistemas institucionais.
 Hoje atuo na **Jusfy** e mantenho projetos open source que resolvem problemas reais do fluxo de desenvolvimento.
+Atualmente estudo formas de integrar **IA como agente** no workflow de desenvolvimento — automatizando briefing, revisão de PRs e tarefas do dia a dia.
 
 ---
 
